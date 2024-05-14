@@ -21,6 +21,8 @@ Use the `Evolution.step()` function to do 1 evolution step. Use the `Evolution.b
 
 An example of a 3-stage model can be found in [example.py](example.py).
 
+The THI questionnaire data used in the research can be found in [thi_data.csv](thi_data.csv).
+
 ## How to read the result
 
 The result that follows from the GA will be in the form of a NumPy array. In this section, it will be explained how to read this NumPy array.
