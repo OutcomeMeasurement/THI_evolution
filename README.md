@@ -21,7 +21,7 @@ Use the `Evolution.step()` function to do 1 evolution step. Use the `Evolution.b
 
 An example of a 3-stage model can be found in [example.py](example.py).
 
-The THI questionnaire data used in the research can be found in [thi_data.csv](thi_data.csv).
+The THI questionnaire data used to train the GA can be found in [train_data.csv](train_data.csv). The Dutch holdout data can be found in [holdout_data.csv](holdout_data.csv). Lastly, [polish_holdout_data.csv](polish_holdout_data.csv) contains the Polish THI data, used in ["Improved measurement of tinnitus severity: Study of the dimensionality and reliability of the Tinnitus Handicap Inventory"](https://doi.org/10.1371/journal.pone.0237778) by Gos et al.
 
 ## How to read the result
 
