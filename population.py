@@ -23,6 +23,7 @@ class Population:
             Questionset(
                 n_questions_1=n_questions_1,
                 n_questions_2=n_questions_2,
+                n_questions_total=len(answers[0]),
             )
             for _ in range(pool_size)
         ]
